@@ -2,9 +2,9 @@
 <widget id="com.slotstory.starbustslot" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Starbust Slot Review</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+       Starburst is the simplest game with awesome 96.10% RTP. Made in 3D, its graphics do not bring any stress to the eyes. Even sparkling gems icons look very harmonically. Their combinations bring small awards, but the gamblers win very often.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="seo.eviljay" href="https://slotstory.com/slot-catalog/starburst/">
         PhoneGap Team
     </author>
     <content src="index.html" />
